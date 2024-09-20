@@ -12,4 +12,17 @@ Después se encuentran los métodos, los cuales son funciones dentro de las clas
 
 Creación de la clase Fraccion, con los atributos numerador y denominador, y los metodos [representar, sumar, restar, convertir_a_float, invertir]
 
+![alt text](img/image-4.png)
+
 ## SEMANA 2: PILAS Y COLAS
+Implementación de la estructura de datos PILAS y COLAS.
+
+En la estuctura de datos Pilas, los elementos se van ingresando en la lista, al momento de retirar un elemento, se retira el ultimo apilado.
+
+![alt text](img/image-1.png)
+
+En la estructura de datos Colas, los elementos se van ingresando en la lista, al momento de retirar un elemento, se retira el primer elemento de la cola.
+
+![alt text](img/image-3.png)
+
+## SEMANA 4: LISTAS ENLAZADAS
