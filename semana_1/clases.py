@@ -10,10 +10,10 @@ class Fraccion:
             self.denominador = int(denominador)
     
     def representar(self):
-        if self.denominador != 1:
-            return f"{self.numerador}/{self.denominador}"
-        else:
-            return self.numerador
+        if self.denominador != 1: #SI EL DENOMINADOR ES DIFERENTE DE 1
+            return f"{self.numerador}/{self.denominador}" #ME RETORNA ESTO
+        else: #SINO
+            return self.numerador #ESTO
 
     def sumar(self, otra_fraccion):
         numerador = self.numerador * otra_fraccion.denominador + self.denominador * otra_fraccion.numerador
